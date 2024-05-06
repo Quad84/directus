@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-"# directusTask" 
-=======
 # directusTask
->>>>>>> b3a1753 (four commit)
 Follow Me to learn how to use it
 
 - [Installation](#installation)
